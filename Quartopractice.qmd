@@ -1,0 +1,15 @@
+---
+title: "Example Quarto Doc"
+author: "haleigh, andrea and hannah"
+date: 2026/01/07
+format: gfm
+editor: visual
+---
+
+# #year of the horse
+
+## #its january
+
+#Happy **new** *year*
+
+`10+20`

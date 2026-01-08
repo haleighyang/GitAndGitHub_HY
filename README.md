@@ -1,5 +1,5 @@
 # Introduction to Git and GitHub
-
+#Haleigh Yang, Andrea Paz-Lacavex, and Hannah Hayes GitAndGitHub Repo
 Welcome! Today's assignment will walk you through using Git, GitHub, RStudio to interact with both, and, along the way, practice using Quarto and RStudio. Cool! The content has been adapted from a [workshop](https://rstudio-conf-2020.github.io/r-for-excel/github.html) that Openscapes developed.
 
 Please work with a partner on one computer and take turns "driving" (touching the keyboard) vs. "navigating" (figuring out what to do). This is called pair programming and is common practice in industry and computer science.
